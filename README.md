@@ -1,6 +1,6 @@
 # SeleniumGridHub
 Configurable Selenium Hub Template
 
-Main Class : HubLauncher
-Hub config json : hubConfig.json
-Selenium Version : 3.141.59
+Main Class : HubLauncher<br>
+Hub config json : hubConfig.json<br>
+Selenium Version : 3.141.59<br>
