@@ -8,6 +8,7 @@ import javax.servlet.http.HttpServletResponse;
 public class MyServlet extends HttpServlet {
 	
 	/**
+	 * http://localhost:8889/grid/admin/MyServlet
 	 * 
 	 */
 	private static final long serialVersionUID = 1L;
